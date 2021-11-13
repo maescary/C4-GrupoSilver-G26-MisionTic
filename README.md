@@ -1,17 +1,14 @@
 # C4-GrupoSilver-G26-MisionTic
-Proyecto del ciclo 4 para el programa MisionTic 2022, consiste en el desarrollo de una  **Aplicacion web** que permite gestionar un sistema de evaluacion de desempeños laboral; el backend esta desarrollado en Java haciendo uso de Sprint Boot , la base de datos esta creada en MongoDB y el Frontend hace uso de Vue.js, bootStrap. Es un proyecto educativo para aplicar los conociminetos de desarrollo web con SpringBoot, arquitectura de desarrollo orientada a servicios (consumo de API´S), bases de datos NoSQL entre otros temas propios del desarrollo web.
+Proyecto del ciclo 4 para el programa MisionTic 2022, consiste en el desarrollo de una  **Aplicacion web** que permite gestionar un sistema de evaluacion de desempeño laboral; 
+se realizan operaciones CRUD sobre una base de datos NoSQL, permite registrar colaboradores y realizar las evaluaciones de desempeño laboral a cada uno, luego muestra los resultados de las evaluacion, implementacion de login, roles y permisos de usuario. Es un proyecto educativo cuyo fin es aplicar los conocimientos adquiridos en el programa de desarrollo web.
 
-## Comenzando 🚀
+## Comenzando 🚀 ## Despliegue 📦
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Que cosas necesitas para instalar el y probar este codigo_
 
 ```
 Para probar el codigo debe descargarlo y previamente tener configuradon node, mongodb y sprintboot, el mapeo de la base de datos lo encuentra en el archivo bd.json, las apis estan configuradas para correr en un entrono local, tambien se incluye el .jar del proyecto por si desea realizar deploy.
 ```
-
-## Despliegue 📦
-
-
 
 ## Construido con 🛠️
 
@@ -25,29 +22,34 @@ Vue.js
 
 jesus.bonilla@o365.unab.edu.co
 
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
 
-* **Manuel Cardenas** - *Trabajo Inicial* - 
-* **Karen y Andrea** - *Documentación* -
-* **Carlos , Darwin, Edinson y Diego ** - *Developers* -
+* **Manuel Cardenas** - *Trabajo Inicial y Developers* - 
+
+* **Édison Morales Garcés** - *Developers* -  
+
+* **Karen Andrea Marino Mosquera** - *Documentación y Developers* - 
+
+* **Diego Felipe Muñoz Porras** - *Developers* -  
+
+* **Darwin Alexander Osorio Ospina** - *Developers* -  
+
+* **Elías Isaí Tejeda Palmera** - *Developers* -  
+
+* **Gloria Andrea Suarez Brito** - *Documentación y Developers* -  
+
+* **Carlos Andrés Dunand Rodríguez** - *Developers* - 
 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT Open source
+Este proyecto fue desarrollado con fines educativos, pueden usarlo y editarlo como quieran 😊
 
 ## Expresiones de Gratitud 🎁
 
-*
 * Gracias al Ingeniero Jesus Bonilla 🤓 por trasmitir sus conocimientos al equipo de desarrollo.
+* Gracias al equipo silver G-26 por su compromiso en la construccion del proyecto.
 
 ---
-⌨️ con ❤️ por Grupo G26- CICLO 4 MISIONTIC 2022 😊
+⌨️ con ❤️ por Grupo G-26- CICLO 4 MISIONTIC 2022 😊
