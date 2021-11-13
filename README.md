@@ -1,2 +1,2 @@
 # C4-GrupoSilver-G26-MisionTic
-Proyecto de ciclo 4 programa MisionTic 2022
+Proyecto del ciclo 4 para el programa MisionTic 2022, consiste en el desarrollo de una  **Aplicacion web** que permite gestionar un sistema de evaluacion de desempeños laboral; el backend esta desarrollado en Java haciendo uso de Sprint Boot , la base de datos esta creada en MongoDB y el Frontend hace uso de Vue.js, bootStrap. Es un proyecto educativo para aplicar los conociminetos de desarrollo web con SpringBoot, arquitectura de desarrollo orientada a servicios (consumo de API´S), bases de datos NoSQL entre otros temas propios del desarrollo web.
